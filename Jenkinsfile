@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('dev') {
             steps {
-                echo 'code is written'
+                echo 'code is written correctly'
             }
         }
         stage('dev1') {
